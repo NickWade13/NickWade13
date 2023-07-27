@@ -10,6 +10,7 @@ Hello! I'm Nicholas Wade, a passionate developer with expertise in Python and a 
 
 Here are some of the projects I've been working on:
 
+- [Dictionary & Thesaurus App](https://github.com/NickWade13/Dictionary-Thesaurus-App): A dictionary and thesaurus application, providing users with the ability to lookup the definition, synonym and antonym of any word, as well as exporting desired definitions to a text file, and with a built in crossword helper.
 - [Bank Management System Simulator](https://github.com/NickWade13/Bank-Management-System-Simulator): A bank management simulator application with lots of common banking functions such as depositing and withdrawing funds, getting account details, and saving transaction history, among various others
 - [Finance and Investment Calculator](https://github.com/NickWade13/Finance-and-Investment-Calculator): A finance calculator that allows users to perform various financial calculations. It offers different functionalities for several different types of investment calculation, as well as mortgage repayment calculations.
 - [Task Manager](https://github.com/NickWade13/Task-Manager): A task management system with a functional log in system, and has functionality to allow the option to register new users, add tasks, and generate reports.
